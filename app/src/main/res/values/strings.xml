@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Run Notification Tool</string>
+    <string name="location_data">Your location</string>
+    <string name="get_location">Get Location</string>
+</resources>
